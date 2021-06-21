@@ -21,7 +21,7 @@ Text snippet
 * clibor (Windows)
 
 # Installation
-WordのVBAに登録して使用する
+WordのVBAに登録して使用する<br>
 アドインをインストールして使用する（未対応）
 
 # Usage
